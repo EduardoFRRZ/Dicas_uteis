@@ -1,0 +1,14 @@
+\n -> Simula a tecla ENTER
+\t -> Simula a tecla TAB
+
+Sleep(); -> Biblioteca windows.h
+
+SetConsoleTitle("Titulo do console");
+system("title Titulo do console"); -> Biblioteca windows.h
+
+system("pause"); -> Biblioteca stdlib.h  -> #define pausa system("pause")
+system("cls");   -> Biblioteca stdlib.h  -> #define limpa system("cls")
+
+strcat(a1, a2); -> Junta o conteudo das duas variaveis para a variavel a1
+
+strcmp(string1, string2) -> Compara se duas strings são iguais
