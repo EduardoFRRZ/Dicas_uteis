@@ -1,0 +1,4 @@
+HTML         ->   Conteúdo
+CSS          ->   Estilo
+JavaScript   ->   Interatividade
+PHP          ->   Funcionalidades adicionais
