@@ -15,7 +15,7 @@ int main() {
 	
 	printf("%d / %d / %d\n", ponteiro->dia, ponteiro->mes, ponteiro->ano);           // Ponteiro
 	printf("%d / %d / %d\n", (*ponteiro).dia, (*ponteiro).mes, (*ponteiro).ano);	 // Ponteiro
-	printf("%d / %d / %d\n", DATA.dia, DATA.mes, DATA.ano);							 // Sem ponteiro
+	printf("%d / %d / %d\n", DATA.dia, DATA.mes, DATA.ano);				 // Sem ponteiro
 	
 	/*
 		int A;
