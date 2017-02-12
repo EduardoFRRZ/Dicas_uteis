@@ -1,0 +1,15 @@
+height 20px; -> Altura
+width 20px; -> Largura
+
+                    
+position:absolute;  |
+top: 20px;          | -> Posicionamento
+left/right: 20px;   |
+
+
+font-size: 20px; -> Tamanho da fonte
+
+line-height: 28px; -> Espaçamento entre linhas
+
+text-indent: 50px; -> Espaçamento de paragrafo
+                    
